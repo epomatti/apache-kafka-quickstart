@@ -1,7 +1,8 @@
 {
   "packageManager": "yarn@3.2.2",
   "scripts": {
-    "dev": "node src/main.js"
+    "producer": "node src/producer.js",
+    "consumer": "node src/consumer.js"
   },
   "dependencies": {
     "kafkajs": "^2.1.0"
