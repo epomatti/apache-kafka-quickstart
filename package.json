@@ -1,3 +1,6 @@
 {
-  "packageManager": "yarn@3.2.2"
+  "packageManager": "yarn@3.2.2",
+  "dependencies": {
+    "kafkajs": "^2.1.0"
+  }
 }
