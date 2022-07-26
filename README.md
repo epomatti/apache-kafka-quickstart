@@ -22,6 +22,7 @@ yarn install
 yarn run consumer
 
 # Start the topic Producer
+yarn run producer
 ```
 
 ### CLI
